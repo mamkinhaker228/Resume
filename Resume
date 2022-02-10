@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Моё резюме</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+	<header>
+		<p class= z>Front-End Developer</p>
+	</header>
+
+	<div>
+		<h1>Мое резюме</h1>
+		<aside>
+			<img src="photo_2022-01-19_20-59-25.jpg">
+		</aside>
+
+		<main>
+			<h2>Жульов Артем</h2>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco 	laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur
+			</p>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			</p>
+			<p>связатся со мной</p>
+			<ul>
+				<li>
+					<span class="contact-section-type"></span>
+					<a class="contact-section-link" href="mailto:bloxartur2.0@gmail.com">Почта</a>
+				</li>
+			</ul>
+			<div class= "tech-skills">
+			<h3 class="sidebar-title">Техничские умения</h3>
+			<ul>
+			<li class="tech-skills-list">CSS3</span> 
+			</li>
+			<li class="tech-skills-list">GIT</span>
+			</li>
+			<li class="tech-skills-list">WebPack</span> 
+			</li>
+			<li class="tech-skills-list">JavaScript</span> 
+			</li>
+			
+			</ul>
+			</div>
+		</main>
+
+	</div>
+	
+	<footer>
+		<p>
+			разработчик сайта:Жульов Артем
+		</p>
+	</footer>
+
+
+
+</body>
+</html>
